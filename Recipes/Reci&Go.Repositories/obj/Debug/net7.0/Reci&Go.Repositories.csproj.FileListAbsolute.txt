@@ -1,0 +1,15 @@
+C:\Users\Tomás\Desktop\assembly\idk\JD\Mine\Recipes\Reci&Go.Repositories\bin\Debug\net7.0\Reci&Go.Repositories.deps.json
+C:\Users\Tomás\Desktop\assembly\idk\JD\Mine\Recipes\Reci&Go.Repositories\bin\Debug\net7.0\Reci&Go.Repositories.dll
+C:\Users\Tomás\Desktop\assembly\idk\JD\Mine\Recipes\Reci&Go.Repositories\bin\Debug\net7.0\Reci&Go.Repositories.pdb
+C:\Users\Tomás\Desktop\assembly\idk\JD\Mine\Recipes\Reci&Go.Repositories\obj\Debug\net7.0\Reci&Go.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomás\Desktop\assembly\idk\JD\Mine\Recipes\Reci&Go.Repositories\obj\Debug\net7.0\Reci&Go.Repositories.AssemblyInfoInputs.cache
+C:\Users\Tomás\Desktop\assembly\idk\JD\Mine\Recipes\Reci&Go.Repositories\obj\Debug\net7.0\Reci&Go.Repositories.AssemblyInfo.cs
+C:\Users\Tomás\Desktop\assembly\idk\JD\Mine\Recipes\Reci&Go.Repositories\obj\Debug\net7.0\Reci&Go.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Tomás\Desktop\assembly\idk\JD\Mine\Recipes\Reci&Go.Repositories\obj\Debug\net7.0\Reci&Go.Repositories.dll
+C:\Users\Tomás\Desktop\assembly\idk\JD\Mine\Recipes\Reci&Go.Repositories\obj\Debug\net7.0\refint\Reci&Go.Repositories.dll
+C:\Users\Tomás\Desktop\assembly\idk\JD\Mine\Recipes\Reci&Go.Repositories\obj\Debug\net7.0\Reci&Go.Repositories.pdb
+C:\Users\Tomás\Desktop\assembly\idk\JD\Mine\Recipes\Reci&Go.Repositories\obj\Debug\net7.0\ref\Reci&Go.Repositories.dll
+C:\Users\Tomás\Desktop\assembly\idk\JD\Mine\Recipes\Reci&Go.Repositories\bin\Debug\net7.0\Reci&Go.Models.dll
+C:\Users\Tomás\Desktop\assembly\idk\JD\Mine\Recipes\Reci&Go.Repositories\bin\Debug\net7.0\Reci&Go.Models.pdb
+C:\Users\Tomás\Desktop\assembly\idk\JD\Mine\Recipes\Reci&Go.Repositories\obj\Debug\net7.0\Reci&Go.Repositories.csproj.AssemblyReference.cache
+C:\Users\Tomás\Desktop\assembly\idk\JD\Mine\Recipes\Reci&Go.Repositories\obj\Debug\net7.0\Reci&Go..3961F1BF.Up2Date

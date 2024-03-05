@@ -1,0 +1,17 @@
+C:\Users\Tomás\Desktop\assembly\idk\JD\Mine\Recipes\Reci&Go.Services\bin\Debug\net7.0\Reci&Go.Services.deps.json
+C:\Users\Tomás\Desktop\assembly\idk\JD\Mine\Recipes\Reci&Go.Services\bin\Debug\net7.0\Reci&Go.Services.dll
+C:\Users\Tomás\Desktop\assembly\idk\JD\Mine\Recipes\Reci&Go.Services\bin\Debug\net7.0\Reci&Go.Services.pdb
+C:\Users\Tomás\Desktop\assembly\idk\JD\Mine\Recipes\Reci&Go.Services\obj\Debug\net7.0\Reci&Go.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomás\Desktop\assembly\idk\JD\Mine\Recipes\Reci&Go.Services\obj\Debug\net7.0\Reci&Go.Services.AssemblyInfoInputs.cache
+C:\Users\Tomás\Desktop\assembly\idk\JD\Mine\Recipes\Reci&Go.Services\obj\Debug\net7.0\Reci&Go.Services.AssemblyInfo.cs
+C:\Users\Tomás\Desktop\assembly\idk\JD\Mine\Recipes\Reci&Go.Services\obj\Debug\net7.0\Reci&Go.Services.csproj.CoreCompileInputs.cache
+C:\Users\Tomás\Desktop\assembly\idk\JD\Mine\Recipes\Reci&Go.Services\obj\Debug\net7.0\Reci&Go.Services.dll
+C:\Users\Tomás\Desktop\assembly\idk\JD\Mine\Recipes\Reci&Go.Services\obj\Debug\net7.0\refint\Reci&Go.Services.dll
+C:\Users\Tomás\Desktop\assembly\idk\JD\Mine\Recipes\Reci&Go.Services\obj\Debug\net7.0\Reci&Go.Services.pdb
+C:\Users\Tomás\Desktop\assembly\idk\JD\Mine\Recipes\Reci&Go.Services\obj\Debug\net7.0\ref\Reci&Go.Services.dll
+C:\Users\Tomás\Desktop\assembly\idk\JD\Mine\Recipes\Reci&Go.Services\bin\Debug\net7.0\Reci&Go.Models.dll
+C:\Users\Tomás\Desktop\assembly\idk\JD\Mine\Recipes\Reci&Go.Services\bin\Debug\net7.0\Reci&Go.Repositories.dll
+C:\Users\Tomás\Desktop\assembly\idk\JD\Mine\Recipes\Reci&Go.Services\bin\Debug\net7.0\Reci&Go.Models.pdb
+C:\Users\Tomás\Desktop\assembly\idk\JD\Mine\Recipes\Reci&Go.Services\bin\Debug\net7.0\Reci&Go.Repositories.pdb
+C:\Users\Tomás\Desktop\assembly\idk\JD\Mine\Recipes\Reci&Go.Services\obj\Debug\net7.0\Reci&Go.Services.csproj.AssemblyReference.cache
+C:\Users\Tomás\Desktop\assembly\idk\JD\Mine\Recipes\Reci&Go.Services\obj\Debug\net7.0\Reci&Go..0F70DB16.Up2Date

@@ -1,0 +1,11 @@
+C:\Users\Tomás\Desktop\assembly\idk\JD\Mine\Recipes\Reci&Go.Models\bin\Debug\net7.0\Reci&Go.Models.deps.json
+C:\Users\Tomás\Desktop\assembly\idk\JD\Mine\Recipes\Reci&Go.Models\bin\Debug\net7.0\Reci&Go.Models.dll
+C:\Users\Tomás\Desktop\assembly\idk\JD\Mine\Recipes\Reci&Go.Models\bin\Debug\net7.0\Reci&Go.Models.pdb
+C:\Users\Tomás\Desktop\assembly\idk\JD\Mine\Recipes\Reci&Go.Models\obj\Debug\net7.0\Reci&Go.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomás\Desktop\assembly\idk\JD\Mine\Recipes\Reci&Go.Models\obj\Debug\net7.0\Reci&Go.Models.AssemblyInfoInputs.cache
+C:\Users\Tomás\Desktop\assembly\idk\JD\Mine\Recipes\Reci&Go.Models\obj\Debug\net7.0\Reci&Go.Models.AssemblyInfo.cs
+C:\Users\Tomás\Desktop\assembly\idk\JD\Mine\Recipes\Reci&Go.Models\obj\Debug\net7.0\Reci&Go.Models.csproj.CoreCompileInputs.cache
+C:\Users\Tomás\Desktop\assembly\idk\JD\Mine\Recipes\Reci&Go.Models\obj\Debug\net7.0\Reci&Go.Models.dll
+C:\Users\Tomás\Desktop\assembly\idk\JD\Mine\Recipes\Reci&Go.Models\obj\Debug\net7.0\refint\Reci&Go.Models.dll
+C:\Users\Tomás\Desktop\assembly\idk\JD\Mine\Recipes\Reci&Go.Models\obj\Debug\net7.0\Reci&Go.Models.pdb
+C:\Users\Tomás\Desktop\assembly\idk\JD\Mine\Recipes\Reci&Go.Models\obj\Debug\net7.0\ref\Reci&Go.Models.dll

@@ -1,0 +1,13 @@
+﻿@page
+@model Reci_Go.Pages.Category.UpdateModel
+@{
+}
+<form method="post">
+    <div class="form-group">
+        <input type="hidden" name="id" class="form-control" value="@Model.Category.Id" asp-for="@Model.Category.Id">
+        <label class="text-light bg-dark p-2 rounded">UserName</label>
+        <input type="text" name="name" class="form-control" readonly value="@Model.Category.Name" asp-for="@Model.Category.Name">
+    </div>
+    <br />
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>

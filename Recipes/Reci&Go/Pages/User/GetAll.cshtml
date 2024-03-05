@@ -1,0 +1,33 @@
+﻿@page
+@model Reci_Go.Pages.User.GetAllModel
+@{
+}
+<table class="table table-striped table-dark">
+	<tr>
+		<th scope="col">#</th>
+		<th scope="col">UserName</th>
+		<th scope="col">Password</th>
+		<th scope="col">Name</th>
+		<th scope="col">Email</th>
+		<th scope="col">isAdmin</th>
+		<th scope="col">isBlocked</th>
+		<th scope="col">Actions</th>
+	</tr>
+	@foreach (var user in Model.Users)
+	{
+		<tr>
+			<td scope="row">@user.Id</td>
+			<td>@user.Username</td>
+			<td>@user.Password</td>
+			<td>@user.Name</td>
+			<td>@user.Email</td>
+			<td>@user.IsAdmin</td>
+			<td>@user.IsBlocked</td>
+			<td>
+				<a asp-page="/User/Update" asp-route-id="@user.Id">Update</a> | <!--Change delete to have user ID to a default one-->
+				<a asp-page="/User/Delete" asp-route-id="@user.Id">Delete</a>
+
+			</td>
+		</tr>
+	}
+	

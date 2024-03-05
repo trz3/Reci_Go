@@ -1,0 +1,24 @@
+﻿@page
+@model Reci_Go.Pages.Measure.GetByIdModel
+@{
+}
+<div class="d-flex justify-content-center align-items-center" style="height: 100vh;">
+    <div class="text-center mb-4">
+        <br />
+        <table class="table table-striped" style="width: 300px; background-color: #ffffff; padding: 20px; border-radius: 5px; box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.1);">
+            <thead>
+                <tr>
+                    <th scope="col">Name</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>@Model.Measure.Id</td>
+                    <td>
+                        <a class="fa-solid fa-pencil" asp-area="" asp-page="/User/Update" asp-route-id="@Model.Measure.Id">Update</a>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>

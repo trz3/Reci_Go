@@ -1,0 +1,205 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Tomás\\Desktop\\assembly\\idk\\JD\\Mine\\Recipes\\Reci&Go.Services\\Reci&Go.Services.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Tomás\\Desktop\\assembly\\idk\\JD\\Mine\\Recipes\\Reci&Go.Models\\Reci&Go.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Tomás\\Desktop\\assembly\\idk\\JD\\Mine\\Recipes\\Reci&Go.Models\\Reci&Go.Models.csproj",
+        "projectName": "Reci&Go.Models",
+        "projectPath": "C:\\Users\\Tomás\\Desktop\\assembly\\idk\\JD\\Mine\\Recipes\\Reci&Go.Models\\Reci&Go.Models.csproj",
+        "packagesPath": "C:\\Users\\Tomás\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Tomás\\Desktop\\assembly\\idk\\JD\\Mine\\Recipes\\Reci&Go.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Tomás\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Tomás\\Desktop\\assembly\\idk\\JD\\Mine\\Recipes\\Reci&Go.Repositories\\Reci&Go.Repositories.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Tomás\\Desktop\\assembly\\idk\\JD\\Mine\\Recipes\\Reci&Go.Repositories\\Reci&Go.Repositories.csproj",
+        "projectName": "Reci&Go.Repositories",
+        "projectPath": "C:\\Users\\Tomás\\Desktop\\assembly\\idk\\JD\\Mine\\Recipes\\Reci&Go.Repositories\\Reci&Go.Repositories.csproj",
+        "packagesPath": "C:\\Users\\Tomás\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Tomás\\Desktop\\assembly\\idk\\JD\\Mine\\Recipes\\Reci&Go.Repositories\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Tomás\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Tomás\\Desktop\\assembly\\idk\\JD\\Mine\\Recipes\\Reci&Go.Models\\Reci&Go.Models.csproj": {
+                "projectPath": "C:\\Users\\Tomás\\Desktop\\assembly\\idk\\JD\\Mine\\Recipes\\Reci&Go.Models\\Reci&Go.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Tomás\\Desktop\\assembly\\idk\\JD\\Mine\\Recipes\\Reci&Go.Services\\Reci&Go.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Tomás\\Desktop\\assembly\\idk\\JD\\Mine\\Recipes\\Reci&Go.Services\\Reci&Go.Services.csproj",
+        "projectName": "Reci&Go.Services",
+        "projectPath": "C:\\Users\\Tomás\\Desktop\\assembly\\idk\\JD\\Mine\\Recipes\\Reci&Go.Services\\Reci&Go.Services.csproj",
+        "packagesPath": "C:\\Users\\Tomás\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Tomás\\Desktop\\assembly\\idk\\JD\\Mine\\Recipes\\Reci&Go.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Tomás\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Tomás\\Desktop\\assembly\\idk\\JD\\Mine\\Recipes\\Reci&Go.Models\\Reci&Go.Models.csproj": {
+                "projectPath": "C:\\Users\\Tomás\\Desktop\\assembly\\idk\\JD\\Mine\\Recipes\\Reci&Go.Models\\Reci&Go.Models.csproj"
+              },
+              "C:\\Users\\Tomás\\Desktop\\assembly\\idk\\JD\\Mine\\Recipes\\Reci&Go.Repositories\\Reci&Go.Repositories.csproj": {
+                "projectPath": "C:\\Users\\Tomás\\Desktop\\assembly\\idk\\JD\\Mine\\Recipes\\Reci&Go.Repositories\\Reci&Go.Repositories.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

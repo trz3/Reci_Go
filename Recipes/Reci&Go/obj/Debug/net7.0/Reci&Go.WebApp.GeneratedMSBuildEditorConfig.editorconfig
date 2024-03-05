@@ -1,0 +1,127 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Reci_Go
+build_property.RootNamespace = Reci_Go
+build_property.ProjectDir = C:\Users\Tomás\Desktop\assembly\idk\JD\Mine\Recipes\Reci&Go\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Tomás\Desktop\assembly\idk\JD\Mine\Recipes\Reci&Go
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Tomás/Desktop/assembly/idk/JD/Mine/Recipes/Reci&Go/Pages/Category/GetAll.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcnlcR2V0QWxsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Tomás/Desktop/assembly/idk/JD/Mine/Recipes/Reci&Go/Pages/Category/GetById.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcnlcR2V0QnlJZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Tomás/Desktop/assembly/idk/JD/Mine/Recipes/Reci&Go/Pages/Category/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcnlcVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Tomás/Desktop/assembly/idk/JD/Mine/Recipes/Reci&Go/Pages/Difficulty/GetAll.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGlmZmljdWx0eVxHZXRBbGwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Tomás/Desktop/assembly/idk/JD/Mine/Recipes/Reci&Go/Pages/Difficulty/GetById.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGlmZmljdWx0eVxHZXRCeUlkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Tomás/Desktop/assembly/idk/JD/Mine/Recipes/Reci&Go/Pages/Difficulty/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGlmZmljdWx0eVxVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Tomás/Desktop/assembly/idk/JD/Mine/Recipes/Reci&Go/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Tomás/Desktop/assembly/idk/JD/Mine/Recipes/Reci&Go/Pages/Favourite/GetAll.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmF2b3VyaXRlXEdldEFsbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Tomás/Desktop/assembly/idk/JD/Mine/Recipes/Reci&Go/Pages/Favourite/GetById.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmF2b3VyaXRlXEdldEJ5SWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Tomás/Desktop/assembly/idk/JD/Mine/Recipes/Reci&Go/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Tomás/Desktop/assembly/idk/JD/Mine/Recipes/Reci&Go/Pages/Ingredient/GetAll.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5ncmVkaWVudFxHZXRBbGwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Tomás/Desktop/assembly/idk/JD/Mine/Recipes/Reci&Go/Pages/Ingredient/GetById.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5ncmVkaWVudFxHZXRCeUlkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Tomás/Desktop/assembly/idk/JD/Mine/Recipes/Reci&Go/Pages/Ingredient/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5ncmVkaWVudFxVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Tomás/Desktop/assembly/idk/JD/Mine/Recipes/Reci&Go/Pages/Measure/GetAll.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVhc3VyZVxHZXRBbGwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Tomás/Desktop/assembly/idk/JD/Mine/Recipes/Reci&Go/Pages/Measure/GetById.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVhc3VyZVxHZXRCeUlkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Tomás/Desktop/assembly/idk/JD/Mine/Recipes/Reci&Go/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Tomás/Desktop/assembly/idk/JD/Mine/Recipes/Reci&Go/Pages/Rating/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmF0aW5nXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Tomás/Desktop/assembly/idk/JD/Mine/Recipes/Reci&Go/Pages/Rating/GetAll.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmF0aW5nXEdldEFsbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Tomás/Desktop/assembly/idk/JD/Mine/Recipes/Reci&Go/Pages/Rating/GetById.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmF0aW5nXEdldEJ5SWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Tomás/Desktop/assembly/idk/JD/Mine/Recipes/Reci&Go/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Tomás/Desktop/assembly/idk/JD/Mine/Recipes/Reci&Go/Pages/User/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlclxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Tomás/Desktop/assembly/idk/JD/Mine/Recipes/Reci&Go/Pages/User/GetAll.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlclxHZXRBbGwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Tomás/Desktop/assembly/idk/JD/Mine/Recipes/Reci&Go/Pages/User/GetById.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlclxHZXRCeUlkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Tomás/Desktop/assembly/idk/JD/Mine/Recipes/Reci&Go/Pages/User/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlclxVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Tomás/Desktop/assembly/idk/JD/Mine/Recipes/Reci&Go/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Tomás/Desktop/assembly/idk/JD/Mine/Recipes/Reci&Go/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Tomás/Desktop/assembly/idk/JD/Mine/Recipes/Reci&Go/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-zeded3u4kc

@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <RootNamespace>Reci_Go.Services</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Reci&amp;Go.Models\Reci&amp;Go.Models.csproj" />
+    <ProjectReference Include="..\Reci&amp;Go.Repositories\Reci&amp;Go.Repositories.csproj" />
+  </ItemGroup>
+
+</Project>
